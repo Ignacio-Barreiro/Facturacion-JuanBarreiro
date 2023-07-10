@@ -1,0 +1,4 @@
+2023-07-10 19:24:11 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "DELETE [*]* FROM Client"; se esperaba "identifier"
+Syntax error in SQL statement "DELETE [*]* FROM Client"; expected "identifier"; SQL statement:
+DELETE * FROM Client [42001-214]
